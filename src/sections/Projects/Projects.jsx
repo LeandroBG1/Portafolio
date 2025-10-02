@@ -61,7 +61,7 @@ const Projects = () => {
 
             <div className="flex gap-4">
               <a
-                href={project.demo}
+                href={project.proyecto}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm font-semibold text-blue-400 hover:underline"
