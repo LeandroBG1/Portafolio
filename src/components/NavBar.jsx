@@ -7,11 +7,11 @@ const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const links = [
-    { number: '01', label: 'START', href: '#hero' },
+    { number: '01', label: 'INICIO', href: '#hero' },
     { number: '02', label: 'INFO', href: '#about' },
-    { number: '03', label: 'REEL', href: '#projects' },
-    { number: '04', label: 'WORKS', href: '#skills' },
-    { number: '05', label: 'CONTACT', href: '#contact' },
+    { number: '03', label: 'PROYECTOS', href: '#projects' },
+    { number: '04', label: 'HABILIDADES', href: '#skills' },
+    { number: '05', label: 'CONTACTO', href: '#contact' }, 
   ];
 
   useEffect(() => {
@@ -29,7 +29,7 @@ const NavBar = () => {
   }, []); 
 
   return (
-    <nav className="fixed top-0 left-0 w-full z-50 bg-black bg-opacity-80  text-sm font-mono text-gray-300 px-6 py-8">  
+    <nav className="fixed top-0 left-0 w-full z-50 bg-black bg-opacity-80  text-sm font-mono text-gray-300 px-6 py-4">  
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <h1
           className="text-white font-bold text-lg cursor-pointer"

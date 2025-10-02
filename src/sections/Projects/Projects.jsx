@@ -18,7 +18,7 @@ const projects = [
     title: 'Portafolio Web',
     description: 'Sitio personal desarrollado con React, Vite y TailwindCSS.',
     tech: ['React', 'Vite', 'Tailwind'],
-    proyecto: 'https://tusitio.com',
+    proyecto: 'https://leandro-portafolio.vercel.app/',
   },
   // Agrega más proyectos si quieres
 ];

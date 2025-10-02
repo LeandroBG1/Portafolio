@@ -36,7 +36,7 @@ const Hero = () => {
           transition={{ delay: 0.3, duration: 0.8 }}
           className="mt-6 text-lg md:text-xl text-gray-300"
         >
-          Desarrollador Frontend — React, Vite, Tailwind & backend node.js
+          Desarrollador Frontend — React, Vite, Tailwind / Backend node.js / Sistema operativo IBM i (AS400)
         </motion.p>
 
         <motion.a

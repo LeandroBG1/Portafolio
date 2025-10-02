@@ -38,7 +38,7 @@ const About = () => {
           <strong> Vite</strong> y <strong>Tailwind CSS</strong>. desarrollador backend <strong>Node.js</strong> Tengo conocimientos sobre sistema IBM i y lenguajes como <strong>RPGLE</strong>.
         </p>
         <a
-          href="/CV-Leandro.pdf"
+          href="/Leandro-Ballen-Garcia-CV.pdf"
           download
           className="bg-green-500 hover:bg-green-600 text-black font-semibold  inline-block mt-8 py-3 px-6 rounded-full transition duration-300 relative shadow-[0_0_10px_#22c55e] hover:shadow-[0_0_15px_#22c55e]"  
           //shadow-lg shadow-green-500/20" <-- QUITAR O PONER DE NUEVO

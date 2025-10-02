@@ -40,7 +40,7 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" className="min-h-screen relative py-48 px-6  text-white overflow-hidden">
+    <section id="contact" className="min-h-screen relative py-[14vh] px-6  text-white overflow-hidden">
       <div className="max-w-3xl mx-auto backdrop-blur-sm bg-white/4 border border-white/10 rounded-xl p-10 shadow-lg relative z-10">
         <motion.h2 /* ... props de motion ... */ >
           Contáctame
